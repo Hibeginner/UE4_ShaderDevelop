@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4FD962F9-4B7E-BB99-25A6-389A3884C0DC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4_ShaderDevelop",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CustomShader",
+			"Enabled": false
+		},
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}
