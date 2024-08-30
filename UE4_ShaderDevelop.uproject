@@ -12,10 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "CustomShader",
-			"Enabled": false
-		},
-		{
 			"Name": "RenderDocPlugin",
 			"Enabled": true
 		}
